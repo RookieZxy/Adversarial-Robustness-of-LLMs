@@ -1,8 +1,8 @@
-# Adversarial-Robustness-of-LLMs
+# Adversarial-Robustness-of-In context learning(ICL)
 
-A collection of papers and resources about adversarial robustness of large language models (LLMs).
+A collection of papers and resources about adversarial robustness of In context learning(ICL)
 
-
+With emergence of Large Language models(LLMs), the parameter of the LLMs explosive growth. For instance the Llama2, which is published by Meta, is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Therefore fine tuning LLMs become time and money-consuming. In-context learning(ICL) becomes a powerfult paradigm leveraging LLMs for specific task by utilizing data-label paired examples as demonstrations in the precondition prompts.
 
 # News
 
