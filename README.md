@@ -1,4 +1,4 @@
-# Adversarial-Robustness-of-In context learning(ICL)
+# Safty-of-In context learning(ICL)
 
 A collection of papers and resources about adversarial robustness of In context learning(ICL)
 
