@@ -12,13 +12,13 @@ We hope this repository can help researchers to get better understanding of this
 * [Safety of LLMs](#head)
     * [Overview](#overview)
     * [Table of Contents](#table-of-contents)
-    * [Related Studys](##related-studys)
-    * [What is ICL)](##ICL])
-    * [ICL-enhanced LLMs](##ICL-enhanced-LLMs)
-    * [Unrobustness of ICL](##unrobustness-of-ICL)
-        * [Benchmark](###benchmark)
-        * [Attacks based on searching method](###Attacks based on searching method)
-        * [Attacks based on learning method](###Attacks based on learning method)
+    * [Related Studys](#related-studys)
+    * [What is ICL)](#ICL])
+    * [ICL-enhanced LLMs](#ICL-enhanced-LLMs)
+    * [Unrobustness of ICL](#unrobustness-of-ICL)
+        * [Benchmark](#benchmark)
+        * [Attacks based on searching method](#attacks-based-on-searching-method)
+        * [Attacks based on learning method](#attacks-based-on-learning-method)
 
 ## Related Studys<span id="related-studys"/>
 * Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
@@ -31,10 +31,10 @@ We hope this repository can help researchers to get better understanding of this
 
 ### Benchmark<span id="benchmark"/>
 * PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
-### Attacks based on searching method<span id="title2"/>
+### Attacks based on searching method<span id="#attacks-based-on-searching-method"/>
 * Universal and Transferable Adversarial Attacks on Aligned Language Models [paper](https://arxiv.org/pdf/2307.15043.pdf)
 * Large Language Models Can be Lazy Learners Analyze Shortcuts in [paper](https://arxiv.org/pdf/2305.17256.pdf)
-### Attacks based on learning method<span id="title2"/>
+### Attacks based on learning method<span id="#attacks-based-on-learning-method"/>
 * Universal and Transferable Adversarial Attacks [paper](https://arxiv.org/pdf/2307.15043.pdf)
 
 
