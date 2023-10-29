@@ -11,14 +11,14 @@ We hope this repository can help researchers to get better understanding of this
 ## Table of Contents
 * [Safety of LLMs](#head)
     * [Overview](##Overview)
-    * (Table of Contents)[##table-of-contents]
-    * (Related Studys)[##Related Studys]
-    * (What is ICL)[##What is ICL]
-    * (ICL-enhanced LLMs)[##ICL-enhanced LLMs]
-    * (Unrobustness of ICL)[##Unrobustness of ICL]
-        * (Benchmark)[###Benchmark]
-        * (Attacks based on searching method)[###Attacks based on searching method]
-        * (Attacks based on learning method)[###Attacks based on learning method]
+    * [Table of Contents](##table-of-contents)
+    * [Related Studys](##Related Studys)
+    * [What is ICL)](##What is ICL])
+    * [ICL-enhanced LLMs](##ICL-enhanced LLMs)
+    * [Unrobustness of ICL](##Unrobustness of ICL)
+        * [Benchmark](###Benchmark)
+        * [Attacks based on searching method](###Attacks based on searching method)
+        * [Attacks based on learning method](###Attacks based on learning method)
 
 ## Related Studys
 * Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
