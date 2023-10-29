@@ -23,6 +23,9 @@ We hope this repository can help researchers to get better understanding of this
 * PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
 ### Attacks based on searching method
 * Universal and Transferable Adversarial Attacks on Aligned Language Models [paper](https://arxiv.org/pdf/2307.15043.pdf)
+* Large Language Models Can be Lazy Learners Analyze Shortcuts in [paper](https://arxiv.org/pdf/2305.17256.pdf)
+### Attacjs based on learning method
+* Universal and Transferable Adversarial Attacks [paper](https://arxiv.org/pdf/2307.15043.pdf)
 
 
     
