@@ -15,6 +15,6 @@ We hope this repository can help researchers to get better understanding of this
 # Attack
 
   ## Benchmark 
-    * PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
+    PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
 
 
