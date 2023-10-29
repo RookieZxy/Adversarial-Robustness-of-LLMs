@@ -1,4 +1,4 @@
-# Safty-of-In context learning(ICL)
+# Safty-of-LLMs
 
 A collection of papers and resources about adversarial robustness of In context learning(ICL)
 
@@ -12,8 +12,9 @@ We hope this repository can help researchers to get better understanding of this
 
 # What is ICL
 
-# instability of ICL
+# Attack
 
-
+  ## Benchmark 
+    * PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)https://arxiv.org/pdf/2306.04528.pdf)
 
 
