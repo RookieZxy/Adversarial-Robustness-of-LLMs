@@ -10,8 +10,8 @@ We hope this repository can help researchers to get better understanding of this
 
 ## Table of Contents<span id="table-of-contents"/>
 * [Safety of LLMs](#head)
-    * [Overview](##overview)
-    * [Table of Contents](##table-of-contents)
+    * [Overview](#overview)
+    * [Table of Contents](#table-of-contents)
     * [Related Studys](##related-studys)
     * [What is ICL)](##ICL])
     * [ICL-enhanced LLMs](##ICL-enhanced-LLMs)
