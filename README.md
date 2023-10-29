@@ -10,14 +10,20 @@ We hope this repository can help researchers to get better understanding of this
 
 ## Table of Contents
 
+## Related Studys
+* Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
+
 ## What is ICL
 
-## Attack
+## ICL-enhanced LLMs
+
+## Unrobustness of ICL
+
 ### Benchmark 
 * PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
-### Query Attack
+### Attacks based on searching method
 * Universal and Transferable Adversarial Attacks on Aligned Language Models [paper](https://arxiv.org/pdf/2307.15043.pdf)
-### Demo Attack
-* Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
+
+
     
 
