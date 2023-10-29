@@ -14,7 +14,10 @@ We hope this repository can help researchers to get better understanding of this
 
 ## Attack
 ### Benchmark 
-* PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf).
-
+* PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
+### Query Attack
+* Universal and Transferable Adversarial Attacks on Aligned Language Models [paper]([url](https://arxiv.org/abs/2307.15043)https://arxiv.org/abs/2307.15043)
+### Demo Attack
+* Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
     
 
