@@ -9,8 +9,8 @@ In this repository, we will introduce the ICL and collect recent advances in saf
 We hope this repository can help researchers to get better understanding of this promising field.
 
 ## Table of Contents
-* (Safety of LLMs)[#head]
-    * (Overview)[##Overview]
+* [Safety of LLMs](#head)
+    * [Overview](##Overview)
     * (Table of Contents)[##table-of-contents]
     * (Related Studys)[##Related Studys]
     * (What is ICL)[##What is ICL]
