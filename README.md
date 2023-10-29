@@ -11,7 +11,7 @@ We hope this repository can help researchers to get better understanding of this
 ## Table of Contents
 * (Safety of LLMs)[#safety-of-llms]
     * (Overview)[##Overview]
-    * (Table of Contents)[##Table of Contents]
+    * (Table of Contents)[##table-of-contents]
     * (Related Studys)[##Related Studys]
     * (What is ICL)[##What is ICL]
     * (ICL-enhanced LLMs)[##ICL-enhanced LLMs]
