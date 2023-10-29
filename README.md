@@ -9,7 +9,7 @@ In this repository, we will introduce the ICL and collect recent advances in saf
 We hope this repository can help researchers to get better understanding of this promising field.
 
 ## Table of Contents
-* (Safety of LLMs)[#Safety-of-LLMs]
+* (Safety of LLMs)[#safety-of-llms]
     * (Overview)[##Overview]
     * (Table of Contents)[##Table of Contents]
     * (Related Studys)[##Related Studys]
