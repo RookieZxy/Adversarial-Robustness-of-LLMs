@@ -13,7 +13,7 @@ We hope this repository can help researchers to get better understanding of this
     * [Overview](#overview)
     * [Table of Contents](#table-of-contents)
     * [Related Studys](#related-studys)
-    * [What is ICL)](#ICL])
+    * [What is ICL](#ICL])
     * [ICL-enhanced LLMs](#ICL-enhanced-LLMs)
     * [Unrobustness of ICL](#unrobustness-of-ICL)
         * [Benchmark](#benchmark)
