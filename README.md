@@ -1,4 +1,4 @@
-# Safety-of-LLMs<span id="head"/>
+# Safety of In-Context Learning<span id="head"/>
 
 A collection of papers and resources about adversarial robustness of In context learning(ICL)
 
@@ -10,33 +10,35 @@ We hope this repository can help researchers to get better understanding of this
 
 ## Table of Contents<span id="table-of-contents"/>
 * [Safety of LLMs](#head)
-    * [Overview](#overview)
-    * [Table of Contents](#table-of-contents)
-    * [Related Studys](#related-studys)
-    * [What is ICL](#ICL])
-    * [ICL-enhanced LLMs](#ICL-enhanced-LLMs)
-    * [Unrobustness of ICL](#unrobustness-of-ICL)
-        * [Benchmark](#benchmark)
-        * [Attacks based on searching method](#attacks-based-on-searching-method)
-        * [Attacks based on learning method](#attacks-based-on-learning-method)
-
-## Related Studys<span id="related-studys"/>
-* Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
-
-## What is ICL<span id="ICL"/>
-* Prompt Engineering [blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+   * [Overview](#overview)
+   * [Table of Contents](#table-of-contents)
+   * [ICL-enhanced LLMs](#ICL-enhanced-LLMs)
+   * [Unrobustness of ICL](#unrobustness-of-ICL)
+      * [Benchmark](#benchmark)
+      * [Attacks based on searching method](#attacks-based-on-searching-method)
+      * [Attacks based on learning method](#attacks-based-on-learning-method)
+   *[Blog](#blog)
 
 ## ICL-enhanced LLMs<span id="ICL-enhanced-LLMs"/>
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (EMNLP)[pdf](https://arxiv.org/pdf/2202.12837.pdf)
+* Emergent Abilities of Large Language Models (TMLR) [pdf](https://arxiv.org/pdf/2206.07682.pdf)
+* What Makes Good In-Context Examples for GPT-3? (arxiv) [pdf](https://arxiv.org/pdf/2101.06804.pdf)
 
-## Unrobustness of ICL<span id="unrobustness-of-ICL"/>
+## Adversarial Robustness of ICL<span id="unrobustness-of-ICL"/>
 
 ### Benchmark<span id="benchmark"/>
-* PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) [paper](https://arxiv.org/pdf/2306.04528.pdf)
+* PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts (Arxiv, 2023) (arxiv)[pdf](https://arxiv.org/pdf/2306.04528.pdf)
 ### Attacks based on searching method<span id="#attacks-based-on-searching-method"/>
-* Universal and Transferable Adversarial Attacks on Aligned Language Models [paper](https://arxiv.org/pdf/2307.15043.pdf)
-* Large Language Models Can be Lazy Learners Analyze Shortcuts in [paper](https://arxiv.org/pdf/2305.17256.pdf)
+* Universal and Transferable Adversarial Attacks on Aligned Language Models (arxiv) [pdf](https://arxiv.org/pdf/2307.15043.pdf)
+* Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning (arxiv) [pdf](https://arxiv.org/pdf/2305.17256.pdf)
+* Adversarial Demonstration Attacks on Large Language Models (arxiv) [pdf](https://arxiv.org/pdf/2305.14950.pdf)
 ### Attacks based on learning method<span id="#attacks-based-on-learning-method"/>
-* Universal and Transferable Adversarial Attacks [paper](https://arxiv.org/pdf/2307.15043.pdf)
+* Universal and Transferable Adversarial Attacks (arxiv)[pdf](https://arxiv.org/pdf/2307.15043.pdf)</br>
+  (They didn't attack the demostration, but they provide a promising attack method based gradient)
+*
+## Blog<span id="blog"/>
+* Prompt Engineering [blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+
 
 
     
