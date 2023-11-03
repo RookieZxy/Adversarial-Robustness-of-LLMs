@@ -24,6 +24,7 @@ We hope this repository can help researchers to get better understanding of this
 * Adversarial Demonstration Attacks on Large Language Models [paper](https://arxiv.org/pdf/2305.14950.pdf)
 
 ## What is ICL<span id="ICL"/>
+* Prompt Engineering [blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
 ## ICL-enhanced LLMs<span id="ICL-enhanced-LLMs"/>
 
