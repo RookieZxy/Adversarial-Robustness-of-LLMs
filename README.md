@@ -24,14 +24,16 @@ A collection of papers and resources about Safety of Large Language Models (LLMs
 * What Makes Good In-Context Examples for GPT-3? (arxiv) [pdf](https://arxiv.org/pdf/2101.06804.pdf)
 * Language Models are Few-Shot Learners (arxiv) [pdf](https://arxiv.org/pdf/2005.14165.pdf)
 * Impact of Pretraining Term Frequencies on Few-Shot Reasoning (arxiv) [pdf](https://arxiv.org/pdf/2202.07206.pdf)
-### Zero shot<span id="zero"/>
-#### &emsp;Attack<span id="z-attack"/>
+### Instability of ICL<span id="Instability-of-ICL"/>
+
+#### &emsp;Zero shot<span id="zero"/>
+##### &emsp;Attack<span id="z-attack"/>
 * Universal and Transferable Adversarial Attacks on Aligned Language Models (arxiv) [pdf](https://arxiv.org/pdf/2307.15043.pdf)
 * Universal and Transferable Adversarial Attacks (arxiv)[pdf](https://arxiv.org/pdf/2307.15043.pdf)
 * Adversarial Prompting for Black Box Foundation Models (arxiv) [pdf](https://arxiv.org/abs/2302.04237)
-### Few shots <span id="few"/>
+#### &emsp;Few shots <span id="few"/>
 
-####  &emsp;Instability of ICL<span id="Instability-of-ICL"/>
+#####  &emsp;Attack<span id="Instability-of-ICL"/>
 * Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning (arxiv) [pdf](https://arxiv.org/pdf/2305.17256.pdf)
 * Adversarial Demonstration Attacks on Large Language Models (arxiv) [pdf](https://arxiv.org/pdf/2305.14950.pdf)
   
