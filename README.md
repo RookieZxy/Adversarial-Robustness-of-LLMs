@@ -31,11 +31,12 @@ A collection of papers and resources about Safety of Large Language Models (LLMs
 * Universal and Transferable Adversarial Attacks on Aligned Language Models (arxiv) [pdf](https://arxiv.org/pdf/2307.15043.pdf)
 * Universal and Transferable Adversarial Attacks (arxiv)[pdf](https://arxiv.org/pdf/2307.15043.pdf)
 * Adversarial Prompting for Black Box Foundation Models (arxiv) [pdf](https://arxiv.org/abs/2302.04237)
+  
 #### &emsp;Few shots <span id="few"/>
-
 #####  &emsp;Attack<span id="Instability-of-ICL"/>
 * Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning (arxiv) [pdf](https://arxiv.org/pdf/2305.17256.pdf)
 * Adversarial Demonstration Attacks on Large Language Models (arxiv) [pdf](https://arxiv.org/pdf/2305.14950.pdf)
+* Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (arxiv) [pdf](https://arxiv.org/pdf/2310.06387.pdf)
   
 ### Defence <span id="defence"/>
 * What is Perplexity? [link](https://lukesalamone.github.io/posts/perplexity/)
